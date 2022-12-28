@@ -1,7 +1,8 @@
-print("NAMA   : M.SUBHAN")
-print("NIM    : D0221413")
-print("KELAS  : G INFORMATIKA")
-print("---TUGAS FINAL PBO---")
+def info(self):
+    print("NAMA   : M.SUBHAN")
+    print("NIM    : D0221413")
+    print("KELAS  : G INFORMATIKA")
+    print("---TUGAS FINAL PBO---")
 
 class Luas:
     def __init__(self):
